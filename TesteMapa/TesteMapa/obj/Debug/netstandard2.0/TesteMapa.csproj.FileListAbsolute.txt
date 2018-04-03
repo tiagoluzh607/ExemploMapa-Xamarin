@@ -1,0 +1,12 @@
+C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.csprojResolveAssemblyReference.cache
+C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.csproj.CoreCompileInputs.cache
+C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.App.xaml.g.cs
+C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.MainPage.xaml.g.cs
+C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.Page1.xaml.g.cs
+C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.AssemblyInfoInputs.cache
+C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.AssemblyInfo.cs
+C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\bin\Debug\netstandard2.0\TesteMapa.deps.json
+C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\bin\Debug\netstandard2.0\TesteMapa.dll
+C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\bin\Debug\netstandard2.0\TesteMapa.pdb
+C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.dll
+C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.pdb
