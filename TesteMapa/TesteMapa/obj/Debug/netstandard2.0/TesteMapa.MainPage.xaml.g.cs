@@ -11,7 +11,8 @@
 namespace TesteMapa {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\tiagoluz\\source\\repos\\TesteMapa\\TesteMapa\\TesteMapa\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\tiago\\source\\repos\\ExemploMapa-Xamarin\\TesteMapa\\TesteMapa\\MainPage.xaml" +
+        "")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

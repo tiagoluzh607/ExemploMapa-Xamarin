@@ -10,3 +10,15 @@ C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\bin\Debug\netstanda
 C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\bin\Debug\netstandard2.0\TesteMapa.pdb
 C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.dll
 C:\Users\tiagoluz\source\repos\TesteMapa\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.pdb
+C:\Users\tiago\source\repos\ExemploMapa-Xamarin\TesteMapa\TesteMapa\bin\Debug\netstandard2.0\TesteMapa.deps.json
+C:\Users\tiago\source\repos\ExemploMapa-Xamarin\TesteMapa\TesteMapa\bin\Debug\netstandard2.0\TesteMapa.dll
+C:\Users\tiago\source\repos\ExemploMapa-Xamarin\TesteMapa\TesteMapa\bin\Debug\netstandard2.0\TesteMapa.pdb
+C:\Users\tiago\source\repos\ExemploMapa-Xamarin\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\ExemploMapa-Xamarin\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.App.xaml.g.cs
+C:\Users\tiago\source\repos\ExemploMapa-Xamarin\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.MainPage.xaml.g.cs
+C:\Users\tiago\source\repos\ExemploMapa-Xamarin\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.Page1.xaml.g.cs
+C:\Users\tiago\source\repos\ExemploMapa-Xamarin\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\ExemploMapa-Xamarin\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.AssemblyInfo.cs
+C:\Users\tiago\source\repos\ExemploMapa-Xamarin\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.dll
+C:\Users\tiago\source\repos\ExemploMapa-Xamarin\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.pdb
+C:\Users\tiago\source\repos\ExemploMapa-Xamarin\TesteMapa\TesteMapa\obj\Debug\netstandard2.0\TesteMapa.csprojResolveAssemblyReference.cache

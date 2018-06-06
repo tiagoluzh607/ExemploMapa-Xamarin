@@ -882,20 +882,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tiagoluz\\.nuget\\packages\\": {}
+    "C:\\Users\\tiago\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tiagoluz\\source\\repos\\TesteMapa\\TesteMapa\\TesteMapa.iOS\\TesteMapa.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\tiago\\source\\repos\\ExemploMapa-Xamarin\\TesteMapa\\TesteMapa.iOS\\TesteMapa.iOS.csproj",
       "projectName": "TesteMapa.iOS",
-      "projectPath": "C:\\Users\\tiagoluz\\source\\repos\\TesteMapa\\TesteMapa\\TesteMapa.iOS\\TesteMapa.iOS.csproj",
-      "packagesPath": "C:\\Users\\tiagoluz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tiagoluz\\source\\repos\\TesteMapa\\TesteMapa\\TesteMapa.iOS\\obj\\",
+      "projectPath": "C:\\Users\\tiago\\source\\repos\\ExemploMapa-Xamarin\\TesteMapa\\TesteMapa.iOS\\TesteMapa.iOS.csproj",
+      "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tiago\\source\\repos\\ExemploMapa-Xamarin\\TesteMapa\\TesteMapa.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\tiagoluz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -908,8 +908,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\tiagoluz\\source\\repos\\TesteMapa\\TesteMapa\\TesteMapa\\TesteMapa.csproj": {
-              "projectPath": "C:\\Users\\tiagoluz\\source\\repos\\TesteMapa\\TesteMapa\\TesteMapa\\TesteMapa.csproj"
+            "C:\\Users\\tiago\\source\\repos\\ExemploMapa-Xamarin\\TesteMapa\\TesteMapa\\TesteMapa.csproj": {
+              "projectPath": "C:\\Users\\tiago\\source\\repos\\ExemploMapa-Xamarin\\TesteMapa\\TesteMapa\\TesteMapa.csproj"
             }
           }
         }

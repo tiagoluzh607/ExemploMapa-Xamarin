@@ -461,26 +461,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tiagoluz\\.nuget\\packages\\": {},
+    "C:\\Users\\tiago\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\tiagoluz\\source\\repos\\TesteMapa\\TesteMapa\\TesteMapa\\TesteMapa.csproj",
+      "projectUniqueName": "C:\\Users\\tiago\\source\\repos\\ExemploMapa-Xamarin\\TesteMapa\\TesteMapa\\TesteMapa.csproj",
       "projectName": "TesteMapa",
-      "projectPath": "C:\\Users\\tiagoluz\\source\\repos\\TesteMapa\\TesteMapa\\TesteMapa\\TesteMapa.csproj",
-      "packagesPath": "C:\\Users\\tiagoluz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tiagoluz\\source\\repos\\TesteMapa\\TesteMapa\\TesteMapa\\obj\\",
+      "projectPath": "C:\\Users\\tiago\\source\\repos\\ExemploMapa-Xamarin\\TesteMapa\\TesteMapa\\TesteMapa.csproj",
+      "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tiago\\source\\repos\\ExemploMapa-Xamarin\\TesteMapa\\TesteMapa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\tiagoluz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
