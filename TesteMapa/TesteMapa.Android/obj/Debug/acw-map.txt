@@ -1,3 +1,7 @@
+TesteMapa.Droid.CustomMapRenderer, TesteMapa.Android;md5005d24cb9704eeb17179f208bd961069.CustomMapRenderer
+TesteMapa.Droid.CustomMapRenderer, TesteMapa.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5005d24cb9704eeb17179f208bd961069.CustomMapRenderer
+TesteMapa.Droid.CustomMapRenderer;md5005d24cb9704eeb17179f208bd961069.CustomMapRenderer
+testemapa.droid.CustomMapRenderer;md5005d24cb9704eeb17179f208bd961069.CustomMapRenderer
 TesteMapa.Droid.MainActivity, TesteMapa.Android;md5005d24cb9704eeb17179f208bd961069.MainActivity
 TesteMapa.Droid.MainActivity, TesteMapa.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5005d24cb9704eeb17179f208bd961069.MainActivity
 TesteMapa.Droid.MainActivity;md5005d24cb9704eeb17179f208bd961069.MainActivity

@@ -7,6 +7,10 @@ namespace TesteMapa
 {
     public class CustomMap : Map
     {
+        public CustomMap(MapSpan region) : base(region)
+        {
+        }
+
         public List<CustomPin> CustomPins { get; set; }
     }
 }
